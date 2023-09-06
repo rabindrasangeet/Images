@@ -1,0 +1,87 @@
+
+body{
+    background-image: url("images/grocery-items-feature.jpg");
+    height:100%;
+    width:100%;
+    background-position: 10% 10%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.back{
+    height:1050px;
+    width:450px;
+    background-color: rgb(255, 238, 7);
+    position:relative;
+    top:-4px;
+    left:645px;
+    border-radius: 15px;
+}
+
+h1{
+    color:rgb(240, 6, 6);
+    font-family: Georgia,serif;
+    font-size: 35px;
+    font-weight:bolder;
+    position:relative;
+    left:98px;
+    top:8px;
+}
+
+p{
+    font-size: 12px;
+    font-family:Georgia,serif ;
+    color:chocolate;
+    position:relative;
+    left:125px;
+    top:4px;
+}
+
+form{
+    position:relative;
+    left:115px;
+    margin-top: 25px;
+}
+
+label{
+    font-weight: bold;
+    font-family: Georgia,serif;
+    
+}
+
+.label1{
+    position:relative;
+    left:72px;
+}
+
+.label2{
+    position:relative;
+    left:24px;
+}
+
+.label3{
+    position:relative;
+    left:35px;
+}
+
+.label4{
+    position:relative;
+    left:62px;
+}
+
+.label5{
+    position:relative;
+    left:50px;
+}
+
+.label6{
+    position:relative;
+    left:78px;
+}
+
+button{
+    position:relative;
+    left:62px;
+    top:-10px;
+}
+
